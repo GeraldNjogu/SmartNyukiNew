@@ -3,16 +3,27 @@
 **Table of Contents**
 
 Project Overview
+
 Features
+
 Installation
+
 Usage
+
 Hardware Requirements
+
 Software Requirements
+
 Configuration
+
 Contributing
+
 License
+
 Contact
+
 Acknowledgements
+
 
 **Project Overview**
 
