@@ -1,5 +1,7 @@
-Smart Beekeeping Project
-Table of Contents
+**Smart Beekeeping Project**
+
+**Table of Contents**
+
 Project Overview
 Features
 Installation
@@ -11,16 +13,21 @@ Contributing
 License
 Contact
 Acknowledgements
-Project Overview
+
+**Project Overview**
+
 The Smart Beekeeping Project is designed to help beekeepers monitor and manage their beehives using IoT technology. This system integrates various sensors to collect data on hive conditions, such as temperature, humidity, and bee activity, and uses this data to provide insights and alerts to the beekeeper.
 
-Features
+**Features**
+
 Real-time Monitoring: Continuously monitor hive temperature, humidity, and bee activity.
 Data Logging: Record data over time for analysis.
 Alerts: Receive alerts for significant changes or dangerous conditions.
 Remote Access: View hive data remotely via a web dashboard or mobile app.
 Easy Setup: Simple setup process with clear instructions.
-Installation
+
+**Installation**
+
 Hardware Setup
 Assemble the sensors and microcontroller as per the hardware requirements.
 Connect the sensors to the microcontroller following the wiring diagram provided in the documentation.
@@ -35,41 +42,49 @@ bash
 Copy code
 pip install -r requirements.txt
 Upload the microcontroller code to your device.
-Usage
+
+**Usage**
+
 Power on your hardware setup.
 Run the main software:
 bash
 Copy code
 python main.py
 Access the web dashboard at http://localhost:8000 (or your configured address) to view hive data.
-Hardware Requirements
+
+**Hardware Requirements**
+
 Microcontroller (e.g., Arduino, Raspberry Pi)
 Temperature and humidity sensor (e.g., DHT22)
 Bee activity sensor (e.g., microphone for audio analysis or a camera for video analysis)
 Power supply
 Cables and connectors
-Software Requirements
+
+**Software Requirements**
+Firebase
 Python 3.x
 Flask (for the web dashboard)
 Additional Python libraries (listed in requirements.txt)
 Configuration
 Configuration settings can be found in config.yaml. You can adjust parameters such as sensor thresholds, data logging intervals, and alert settings.
 
-Contributing
+**Contributing**
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
+**Fork the repository.**
 Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature-branch).
 Open a pull request.
-License
+
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+**Contact**
 
-For questions or feedback, please contact Your Name.
+For questions or feedback, please contact OfficialMNM.
 
-Acknowledgements
-Special thanks to [Person/Organization] for [specific contribution or support].
+**Acknowledgements**
+
+Special thanks to [JHUB] for [specific contribution or support].
 List any other acknowledgements, such as open-source libraries or inspiration sources.
