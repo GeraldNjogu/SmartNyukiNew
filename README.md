@@ -2,27 +2,27 @@
 
 **Table of Contents**
 
-Project Overview
+1) Project Overview
 
-Features
+2) Features
 
-Installation
+3) Installation
 
-Usage
+4) Usage
+   
+5) Hardware Requirements
 
-Hardware Requirements
+6) Software Requirements
 
-Software Requirements
+7) Configuration
 
-Configuration
+8) Contributing
 
-Contributing
+9) License
 
-License
+10) Contact
 
-Contact
-
-Acknowledgements
+11) Acknowledgements
 
 
 **Project Overview**
